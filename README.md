@@ -1,3 +1,8 @@
+About this fork
+====
+We needed showcaseview for a project, but it didn't work because of an exception.
+This fork adds only the fix for that exception, and nothing else.
+
 ShowcaseView is deprecated
 ====
 Currently, ShowcaseView is not under active development; issues cannot be opened and PRs will not be accepted.
